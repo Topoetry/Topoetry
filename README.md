@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Topoetry
-- 👀 I’m interested in C
+- 👀 I’m interested in C and non-functional harmony
 - 🌱 I’m currently learning Physics
 - 💞️ I’m looking to collaborate on FOSS projects, if I find time to.
 <!---
